@@ -12,3 +12,7 @@ Sample automation code using Selenium Web-driver and Selenium Framework
 Created 2 maven projects. Tests project contains dependency to TestsFramework.
 This separates tests from underlying logic. Makes it easy to maintain.
 This project provides basic Selenium Framework structure and test for basic web navigation.
+
+3. Login Page Test Using Selenium Framework
+Implemented parameterized tests for login checks, and asserts appropriate error message
+Implemented Junit and TestNG
